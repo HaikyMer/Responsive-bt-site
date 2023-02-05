@@ -1,0 +1,19 @@
+#logo {
+    height: 60px;
+} 
+
+/* form {
+    background-color: rgb(108, 196, 247);
+
+} */
+
+#icons {
+    display: flex;
+    flex: 3;
+    justify-content: space-between;
+}
+
+#johnDoe {
+    background-color: rgb(253, 247, 247);
+}
+
